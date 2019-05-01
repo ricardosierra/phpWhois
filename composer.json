@@ -21,16 +21,20 @@
         {
             "name": "Dmitry Lukashin",
             "email": "dmitry@lukashin.ru"
+        },
+        {
+            "name": "Ricardo Sierra",
+            "email": "ricardo@sierratecnologia.com.br"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=7.0.0",
         "ext-mbstring": "*",
         "true/punycode": "~2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "^4.0"
     },
     "suggest": {
         "lib-openssl": "*"
